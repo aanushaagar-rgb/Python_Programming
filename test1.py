@@ -1,3 +1,3 @@
-a =55
-b =60
-print (a+b)
+a = 50
+b = 20
+print(a + b)
